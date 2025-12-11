@@ -15,9 +15,23 @@
       "website": "None"
     },
     {
-      "name": "Exampel",
+      "name": "Rain Ticket",
       "status": "in development",
-      "description": "Exampel Description",
+      "description": "A Discord ticket bot designed to streamline server support. It offers a wide range of features, a clean and modern appearance, and full branding control, allowing you to tailor the bot to match your server’s identity. The goal is to provide an easy-to-use, flexible, and visually appealing support system for any Discord community.",
+      "discord": "None",
+      "website": "None"
+    },
+    {
+      "name": "Rain Multitool",
+      "status": "Discontinued",
+      "description": "A discord multitool with 21 different language support and has over 40+ options such as joiner, status rotator and even a selfbot built into it, as well as a custom options feature. And much more..",
+      "discord": "https://discord.gg/ynJ2NFsyTg",
+      "website": "None"
+    },
+    {
+      "name": "Rain Bypass",
+      "status": "Discontinued",
+      "description": "This was a fivem cheat bypassing tool that allowed you to clean you entire pc in just seconds so you could pass pc checks it worked with: Eulen, Redengine, Tz internal, tzx external and bypassed Manuel PC Checks, Echo.ac and much more..",
       "discord": "None",
       "website": "None"
     }
