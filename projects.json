@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "name": "Rain Decrypt",
+      "status": "active",
+      "description": "This is a Fivem resource decryptor / FXAP decryptor. It allows you to decrypt locked Fivem scripts and get the source code for it. It is also 95% keyless, meaning it works without needing a CFX key for most resources.",
+      "discord": "https://discord.gg/rainfxap",
+      "website": "https://raintools.se/"
+    },
+    {
+      "name": "Rain Crasher",
+      "status": "in development",
+      "description": "This is a FiveM crasher that allows you to crash your fivem with a simple click of a button and it is also stream safe which allows you to clip your crash without being detected or even screenshare, perfect to use if you are about to be robbed and want to leave without the staff being able to see you quit, as it instead just crashes your fivem and also shows in the logs that you crashed.",
+      "discord": "None",
+      "website": "None"
+    },
+    {
+      "name": "Exampel",
+      "status": "in development",
+      "description": "Exampel Description",
+      "discord": "None",
+      "website": "None"
+    }
+  ]
+}
